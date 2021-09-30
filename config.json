@@ -1,0 +1,23 @@
+{
+  "base_dir": "",
+  "batch_size": 64,
+  "epochs": 20,
+  "epoch_patience": 5,
+  "bert_model_dir": "resources/hatebert",
+  "monitor": "loss",
+  "tweet_text_seq_len": 80,
+  "tweet_text_char_len": 128,
+  "char_size": 29,
+  "max_learning_rate": 0.001,
+  "end_learning_rate": 0.0000001,
+  "rnn_type": "lstm",
+  "rnn_layer_size": 200,
+  "text_models": ["char_emb", "bert", "hate_words"],
+  "normalize_text": true,
+  "dataset_year": "2021",
+  "optimizer": "adam",
+  "text_use_attention": false,
+  "oversample": true,
+  "feature_normalization_layer_size": 512,
+  "min_feature_normalization_layer_size": 64
+}
