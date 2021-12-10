@@ -3,6 +3,10 @@
 # The repository provides the source code for the paper "Combining Textual Features for the Detection of Hateful and Offensive Language" submitted to [HASOC 2021](https://hasocfire.github.io/hasoc/2021/call_for_participation.html) English Subtask 1A.
 
 
+### Publication
+
+[Arxiv](https://arxiv.org/pdf/2112.04803.pdf)
+
 
 ### Installation (requires >=Python 3.6 )
 
