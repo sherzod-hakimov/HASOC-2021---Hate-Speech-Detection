@@ -5,7 +5,7 @@
 
 ### Publication
 
-[Arxiv](https://arxiv.org/pdf/2112.04803.pdf)
+Arxiv: [https://arxiv.org/pdf/2112.04803.pdf](https://arxiv.org/pdf/2112.04803.pdf)
 
 
 ### Installation (requires >=Python 3.6 )
